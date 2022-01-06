@@ -1,0 +1,29 @@
+.div1{
+    width: 100%;
+    text-align: left;
+}
+.div1 button{
+    text-align: right;
+    float:right;
+    padding-top: 0px;
+}
+.footer{
+    background-color: grey;
+    color: white;
+    line-height: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+canvas{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 60px;
+    }
+    
+    .div1 h3{
+        display: inline;
+    }
+    #restart{
+        margin-bottom: 40px;
+    }
